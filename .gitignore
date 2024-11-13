@@ -15,3 +15,16 @@ repo_scanner.py
 test_login.txt
 
 *test_login.txt
+
+*package-lock.json
+
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.swp
