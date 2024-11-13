@@ -63,7 +63,7 @@ Clean and intuitive login interface with Google Calendar integration capabilitie
 
 ![Login Screen](screenshots/login_screen.png)
 
-### 2. Team Selection
+### 2. Team Selection *** May have to refresh for header to show up ****
 - Interactive team selection interface
 - Search functionality to find teams quickly
 - Real-time preview of selected teams' schedules
