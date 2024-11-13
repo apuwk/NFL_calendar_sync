@@ -61,7 +61,7 @@ npm run dev
 ### 1. User Authentication & Onboarding
 Clean and intuitive login interface with Google Calendar integration capabilities.
 
-![Login Screen](assets/screenshots/login_screen.png)
+![Login Screen](screenshots/login_screen.png)
 
 ### 2. Team Selection
 - Interactive team selection interface
@@ -69,7 +69,7 @@ Clean and intuitive login interface with Google Calendar integration capabilitie
 - Real-time preview of selected teams' schedules
 - Easy team management with add/remove capabilities
 
-![Team Selection](assets/screenshots/team_selection.png)
+![Team Selection](screenshots/team_selection.png)
 
 ### 3. Calendar Integration & Schedule Management
 - Google Calendar sync functionality
@@ -78,7 +78,7 @@ Clean and intuitive login interface with Google Calendar integration capabilitie
 - Visual indicators for game days
 - Instant sync status updates
 
-![Calendar View](assets/screenshots/calendar_view.png)
+![Calendar View](screenshots/calendar_view.png)
 
 ### Key Features
 - **Seamless Calendar Integration**: One-click sync with Google Calendar
